@@ -39,7 +39,7 @@ Allows user to guess a randomly generated number.
 
 ### Calculator
 Calculator app with keyboard/mouse listeners.
-![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/calculator.png)
+![Result](https://github.com/julia-strong/programmingportfolio/tree/main/images#:~:text=..-,calculator.png,-Add%20files%20via)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/CalculatorKeyboard%205.zip)
 

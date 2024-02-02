@@ -26,6 +26,7 @@ Converter that takes user input and turns a word into Pig Latin.
 
 ### Grade App
 App with mouse listeners allowing users to convert a letter grade to a number grade.
+
 ![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/grades.png)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/Grades.zip)
@@ -33,6 +34,7 @@ App with mouse listeners allowing users to convert a letter grade to a number gr
 
 ### Random Number Guesser
 Allows user to guess a randomly generated number.
+
 ![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/randomnum.png)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/main.py)

@@ -4,7 +4,7 @@ Skyline High School Computer Programming 1-2
 ## USOE Tech Certifications
 * Computer Programming 1
 
-[pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20I_12182023.pdf)[/] 
+[pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20I_12182023.pdf)
 
 ## Group Project (2023-2024)
 

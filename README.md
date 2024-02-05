@@ -20,14 +20,14 @@ OOP Graphical game with sound and keyboard/mouse listeners.
 ### Pig Latin Converter
 Converter that takes user input and turns a word into Pig Latin.
 
-![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/piglatin.png)
+![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/piglatin.png?raw=true)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/main%20(1).py)
 
 ### Grade App
 App with mouse listeners allowing users to convert a letter grade to a number grade.
 
-![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/grades.png)
+![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/grades.png?raw=true)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/Grades.zip)
 
@@ -35,16 +35,14 @@ App with mouse listeners allowing users to convert a letter grade to a number gr
 ### Random Number Guesser
 Allows user to guess a randomly generated number.
 
-![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/randomnum.png)
+![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/randomnum.png?raw=true)
 
 [Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/main.py)
 
 ### Calculator
 Calculator app with keyboard/mouse listeners.
 
-![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/calculator.png)
-
-<img src="https://github.com/julia-strong/programmingportfolio/blob/main/images/calculator.png">
+![Result](https://github.com/julia-strong/programmingportfolio/blob/main/images/calculator.png?raw=true)
 
 [pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Calculator%20Planner.pdf)
 

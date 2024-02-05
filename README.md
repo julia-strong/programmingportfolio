@@ -15,7 +15,7 @@ OOP Graphical game with sound and keyboard/mouse listeners.
 
 ![Gameplay](https://github.com/julia-strong/programmingportfolio/raw/main/images/spacegame.png?raw=true)
 
-[Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/SpaceGame%2013.zip)
+[Source Code](https://github.com/julia-strong/programmingportfolio/blob/main/src/SpaceGame%2013.zip?raw=true)
 
 ### Pig Latin Converter
 Converter that takes user input and turns a word into Pig Latin.

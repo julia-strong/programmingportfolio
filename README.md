@@ -8,6 +8,8 @@ Skyline High School Computer Programming 1-2
 
 ## Group Project (2023-2024)
 
+[link to repository](https://github.com/9702029/The-Journey-to-Innsmouth)
+
 ## Individual Projects (2023-2024)
 
 ### SpaceGame

@@ -13,6 +13,7 @@ Skyline High School Computer Programming 1-2
 
 ## Individual Projects (2023-2024)
 * Game with a screen that displays images that the user can interact with using mouse input, along with the terminal/console for additional information corresponding to what the user chooses.
+  
 [link to repository](https://github.com/julia-strong/Fantasy-Based-Quest-TextBased-Observer-Game)
 ### SpaceGame
 OOP Graphical game with sound and keyboard/mouse listeners. 

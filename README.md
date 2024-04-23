@@ -1,5 +1,5 @@
 # Julia Strong's Programming Portfolio 2023-2024
-### [Contact Info](juliastrongslc@gmail.com)
+### Contact Info: juliastrongslc@gmail.com
 Skyline High School Computer Programming 1-2
 
 ## USOE Tech Certifications

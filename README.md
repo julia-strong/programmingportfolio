@@ -4,9 +4,9 @@ Skyline High School Computer Programming 1-2
 
 ## USOE Tech Certifications
 * Computer Programming 1
-[Image](https://github.com/julia-strong/programmingportfolio/blob/main/images/compProgrammingCertification1.png?raw=true)
+[Image](https://github.com/julia-strong/programmingportfolio/blob/main/images/compProgrammingCertification1.png?raw=True)
 * [pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20I_12182023.pdf)
-[Image](https://github.com/julia-strong/programmingportfolio/blob/main/images/compProgrammingCertificationPython.png?raw=true)
+[Image](https://github.com/julia-strong/programmingportfolio/blob/main/images/compProgrammingCertificationPython.png?raw=True)
 * Computer Programming 2 Python
   
 * [pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20II%20Python_05062024.pdf?)

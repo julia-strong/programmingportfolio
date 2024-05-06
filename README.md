@@ -6,7 +6,7 @@ Skyline High School Computer Programming 1-2
 * Computer Programming 1
 
 [pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20I_12182023.pdf)
-
+[pdf](https://github.com/julia-strong/programmingportfolio/blob/main/pdfs/Julia%20Strong_Computer%20Programming%20II%20Python_05062024.pdf?raw=true)
 ## Group Project (2023-2024)
 * This project has text-based and image aspects that details a story that has resources the user has and random encounters. It takes user input that determines series of events, which can affect traits of the player such as sanity. 
 
